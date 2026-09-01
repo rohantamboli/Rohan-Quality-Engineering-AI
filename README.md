@@ -46,4 +46,4 @@ Customers who bought both Electronics and Clothing
 Rohan, Elena
 
 Conclusion 
-This solution meets the course project requirements by using lists, tuples, dictionaries, sets, loops, conditionals, comprehensions, sorting, and set operations to analyse real-world-style customer order data. 
+- This solution meets the course project requirements by using lists, tuples, dictionaries, sets, loops, conditionals, comprehensions, sorting, and set operations to analyse real-world-style customer order data. 

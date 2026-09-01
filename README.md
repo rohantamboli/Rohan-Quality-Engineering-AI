@@ -39,7 +39,7 @@ Top three customers by spending:
 1. Rohan - $924.98 
 2. Sarah - $649.98 
 3. Abhishek - $144.98
-4. 
+   
 Customers who bought Electronics: 
 Rohan, Abhishek, Sarah, Elena 
 Customers who bought both Electronics and Clothing 
